@@ -21,7 +21,7 @@ ultrasonic-thief-capture - Raspberry Pi script to capture video of all the peopl
 https://github.com/guyluz11/ultrasonic-thief-capture
 
 
-Scripts - maybe you will found script that will help you on your journey 🐉.
+Scripts - maybe you will found script that will help you on your journey 🐲.
 https://github.com/guyluz11/Scripts
 
 
