@@ -1,17 +1,33 @@
 ### Hi there and welcom to my profile 🧙‍♂️
 
+Here you can view my public projects.
 
-<!--
-**guyluz11/guyluz11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently I am developing in flutter.
 
-Here are some ideas to get you started:
+Most of my work is invested in my smart home startup which is privet so you will only see the desserts 🍧.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Feel free to take a look at some of my projects:
+
+parking-lot - Arduino script for a parking lot mechanism with 2 gates (entrance and exit) 🚧 🚗 🏍️.
+https://github.com/guyluz11/parking-lot
+
+
+ClapInator - Clap twice to change device state (code for Arduino) 👏🏾 👏🏾 💡.
+https://github.com/guyluz11/ClapInator
+
+
+ultrasonic-thief-capture - Raspberry Pi script to capture video of all the people that enters the room 🕵️.
+https://github.com/guyluz11/ultrasonic-thief-capture
+
+
+Scripts - maybe you will found script that will help you on your journey 🐉.
+https://github.com/guyluz11/Scripts
+
+
+
+And here is links to my profile in other platforms:
+
+LinkedIn - https://www.linkedin.com/in/guy-luz-7319487a/
+
+Stack Overflow - https://stackoverflow.com/users/10242854/guy
