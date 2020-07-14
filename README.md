@@ -9,19 +9,19 @@ Most of my work is invested in my smart home startup which is privet so you will
 
 Feel free to take a look at some of my projects:
 
-parking-lot - Arduino script for a parking lot mechanism with 2 gates (entrance and exit) 🚧 🚗 🏍️.
+parking-lot 🚧 🚗 🏍️ - Arduino script for a parking lot mechanism with 2 gates (entrance and exit).
 https://github.com/guyluz11/parking-lot
 
 
-ClapInator - Clap twice to change device state (code for Arduino) 👏🏾 👏🏾 💡.
+ClapInator 👏🏾 👏🏾 💡- Clap twice to change device state (code for Arduino) .
 https://github.com/guyluz11/ClapInator
 
 
-ultrasonic-thief-capture - Raspberry Pi script to capture video of all the people that enters the room 🕵️.
+ultrasonic-thief-capture 🕵️ - Raspberry Pi script to capture video of all the people that enters the room.
 https://github.com/guyluz11/ultrasonic-thief-capture
 
 
-Scripts - maybe you will found script that will help you on your journey 🐲.
+Scripts 🐲- maybe you will found script that will help you on your journey.
 https://github.com/guyluz11/Scripts
 
 
