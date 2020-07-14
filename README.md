@@ -9,7 +9,7 @@ Most of my work is invested in my smart home startup which is privet so you will
 
 Feel free to take a look at some of my projects:
 
-parking-lot 🚧 🚗 🏍️ - Arduino script for a parking lot mechanism with 2 gates (entrance and exit).
+parking-lot 🚧 🚗 🏍️ - Arduino script for a parking lot mechanism with 2 gates (entrance and exit) 🚧 🚜 🚕.
 https://github.com/guyluz11/parking-lot
 
 
