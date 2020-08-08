@@ -4,7 +4,8 @@ Here you can view my public projects.
 
 Currently I am developing in flutter.
 
-Most of my work is invested in my smart home startup which is privet (and may be will be open in the future) so you will only see the desserts for now 🍧.
+Most of my work is invested in my smart home startup which is privet (and I plan to make open in the future) not to be confused with my repo Smart-Power-Outlet,
+so for now you will only see the desserts 🍧.
 
 
 Feel free to take a look at some of my projects:
