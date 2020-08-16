@@ -10,7 +10,7 @@ so for now you will only see the desserts 🍧.
 
 Feel free to take a look at some of my projects:
 
-parking-lot 🚧 🚗 🏍️ - Arduino script for a parking lot mechanism with 2 gates (entrance and exit) 🚧 🚜 🚕.
+Parking-lot 🚧 🚗 🏍️ - Arduino script for a parking lot mechanism with 2 gates (entrance and exit) 🚧 🚜 🚕.
 https://github.com/guyluz11/parking-lot
 
 
