@@ -21,6 +21,4 @@ Feel free to take a look at some of my projects:
 
 And here is links to my profile in other platforms:
 
-[LinkedIn](https://www.linkedin.com/in/guy-luz-7319487a/)
-
-[Stack Overflow](https://stackoverflow.com/users/10242854/guy)
+[LinkedIn](https://www.linkedin.com/in/guy-luz-7319487a/)                                                                                         [Stack Overflow](https://stackoverflow.com/users/10242854/guy)
