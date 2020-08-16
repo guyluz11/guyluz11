@@ -19,4 +19,4 @@ Feel free to take a look at some of my projects:
 [Scripts](https://github.com/guyluz11/Scripts)  🐲 - maybe you will found script that will help you on your journey.
 
 
-Other links: [LinkedIn](https://www.linkedin.com/in/guy-luz-7319487a/), [Stack Overflow](https://stackoverflow.com/users/10242854/guy)
+Other links: [LinkedIn](https://www.linkedin.com/in/guy-luz-7319487a/), [Stack Overflow](https://stackoverflow.com/users/10242854/guy).
