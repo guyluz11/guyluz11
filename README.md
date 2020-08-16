@@ -18,7 +18,7 @@ ClapInator 👏🏾 👏🏾 💡- Clap twice to change device state (code for A
 https://github.com/guyluz11/ClapInator
 
 
-ultrasonic-thief-capture 🕵️ - Raspberry Pi script to capture video of all the people that enters the room.
+Ultrasonic-thief-capture 🕵️ - Raspberry Pi script to capture video of all the people that enters the room.
 https://github.com/guyluz11/ultrasonic-thief-capture
 
 
