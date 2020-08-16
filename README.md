@@ -10,25 +10,17 @@ so for now you will only see the desserts 🍧.
 
 Feel free to take a look at some of my projects:
 
-Parking-lot 🚧 🚗 🏍️ - Arduino script for a parking lot mechanism with 2 gates (entrance and exit) 🚧 🚜 🚕.
-https://github.com/guyluz11/parking-lot
+[Parking-lot](https://github.com/guyluz11/parking-lot) 🚧 🚗 🏍️ - Arduino script for a parking lot mechanism with 2 gates (entrance and exit) 🚧 🚜 🚕.
 
+[ClapInator](https://github.com/guyluz11/ClapInator) 👏🏾 👏🏾 💡- Clap twice to change device state (code for Arduino) .
 
-ClapInator 👏🏾 👏🏾 💡- Clap twice to change device state (code for Arduino) .
-https://github.com/guyluz11/ClapInator
+[Ultrasonic-thief-capture](https://github.com/guyluz11/ultrasonic-thief-capture) 🕵️ - Raspberry Pi script to capture video of all the people that enters the room.
 
-
-Ultrasonic-thief-capture 🕵️ - Raspberry Pi script to capture video of all the people that enters the room.
-https://github.com/guyluz11/ultrasonic-thief-capture
-
-
-Scripts 🐲- maybe you will found script that will help you on your journey.
-https://github.com/guyluz11/Scripts
-
+[Scripts](https://github.com/guyluz11/Scripts) 🐲- maybe you will found script that will help you on your journey.
 
 
 And here is links to my profile in other platforms:
 
-LinkedIn - https://www.linkedin.com/in/guy-luz-7319487a/
+[LinkedIn](https://www.linkedin.com/in/guy-luz-7319487a/)
 
-Stack Overflow - https://stackoverflow.com/users/10242854/guy
+[Stack Overflow](https://stackoverflow.com/users/10242854/guy)
