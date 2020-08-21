@@ -1,4 +1,4 @@
-### Hi there and welcom to my profile 🧙‍♂️
+### Hi there and welcome to my profile 🧙‍♂️
 
 Here you can view my public projects.
 
@@ -16,7 +16,7 @@ Feel free to take a look at some of my projects:
 
 [Ultrasonic-thief-capture](https://github.com/guyluz11/ultrasonic-thief-capture) 🕵️ - Raspberry Pi script to capture video of all the people that enters the room.
 
-[Scripts](https://github.com/guyluz11/Scripts)  🐲 - maybe you will found script that will help you on your journey.
+[Scripts](https://github.com/guyluz11/Scripts)  🐲 - maybe you will found a script that will help you on your journey.
 
 
 Other links: [LinkedIn](https://www.linkedin.com/in/guy-luz-7319487a/), [Stack Overflow](https://stackoverflow.com/users/10242854/guy).
