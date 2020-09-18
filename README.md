@@ -4,7 +4,7 @@ Here you can view my public projects.
 
 Currently I am developing in flutter.
 
-Most of my work is invested in my open source **smart home** 🏡 start-up [CyBear Jinni](https://github.com/CyBear-Jinni/Smart-Home) 🦾🐻🧞‍♂️ which you are welcome to join.
+Most of my work is invested in my open source **smart home** 🏡 start-up [CyBear Jinni](https://github.com/CyBear-Jinni/Smart-Home) 🦾🐻🧞‍♂️, you are welcome to join.
 
 
 Feel free to take a look at some of my projects:
