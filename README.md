@@ -4,10 +4,10 @@ Here you can view my public projects.
 
 Currently I am developing in flutter.
 
-Most of my work is invested in my open source **smart home** 🏡 start-up [CyBear Jinni](https://github.com/CyBear-Jinni) 🦾🐻🧞‍♂️, you are welcome to join.
+Most of my work is invested in my open source **smart home** 🏡 company [CyBear Jinni](cybearjinni.com) 🦾🐻🧞‍♂️, you are welcome to join all the code can be [found here](https://github.com/CyBear-Jinni).
 
 
-Feel free to take a look at some of my projects:
+Feel free to take a look at some of my other projects:
 
 [Parking-lot](https://github.com/guyluz11/parking-lot)  🚧 🚗 🏍️ - Arduino script for a parking lot mechanism with 2 gates (entrance and exit) 🚧 🚜 🚕.
 
