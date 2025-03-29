@@ -4,8 +4,9 @@ Here you can view my public projects.
 
 Currently I am developing in flutter.
 
-Most of my work is invested in my open source **smart home** 🏡 company [CyBear Jinni](https://cybearjinni.com) 🦾🐻🧞‍♂️, you are welcome to join all the code can be [found here](https://github.com/CyBear-Jinni).
+Most of my work is invested in my open source **smart home** 🏡 company Simple Hub 🦾🐻🧞‍♂️, you are welcome to join all the code can be [found here](https://github.com/simple-hub-organization/simple-hub).
 
+Also I have released an app that helps you increase work/studying productivity named [Infinite Horizons](https://github.com/guyluz11/infinite_horizons), I encourage you to try it helped me a lot.
 
 Feel free to take a look at some of my other projects:
 
